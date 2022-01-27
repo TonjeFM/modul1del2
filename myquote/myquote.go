@@ -4,7 +4,7 @@ import "fmt"
 
 import "rsc.io/quote"
 
-func myquote() {
+func Myquote() {
 	fmt.Println(quote.Go())
 	fmt.Println(quote.Glass())
 	fmt.Println(quote.Hello())
