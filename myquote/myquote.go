@@ -1,10 +1,10 @@
-package main
+package myquote
 
 import "fmt"
 
 import "rsc.io/quote"
 
-func main() {
+func myquote() {
 	fmt.Println(quote.Go())
 	fmt.Println(quote.Glass())
 	fmt.Println(quote.Hello())
