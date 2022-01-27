@@ -1,4 +1,4 @@
-module github/tonjefm/modul1del2
+module github.com/tonjefm/modul1del2
 
 go 1.17
 
